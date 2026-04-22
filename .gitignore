@@ -1,9 +1,6 @@
 # Model artifacts (large binary files — regenerate with train_model.py)
 model/
 
-# Data (download from Kaggle separately)
-data/
-
 # Python
 __pycache__/
 *.py[cod]
