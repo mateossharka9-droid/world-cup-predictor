@@ -30,7 +30,7 @@ world_cup_predictor/
 
 ## 📦 Dataset
 
-[International Football Results (1872–2024)](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017) — Kaggle
+[International Football Results (1872–2026)](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017) — Kaggle
 
 Place the downloaded `results.csv` inside a `data/` folder.
 
