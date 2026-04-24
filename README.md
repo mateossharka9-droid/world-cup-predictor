@@ -41,7 +41,7 @@ Place the downloaded `results.csv` inside a `data/` folder.
 ### 1. Clone & install dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/world-cup-predictor.git
+git clone https://github.com/mateossharka9-droid/world-cup-predictor.git
 cd world-cup-predictor
 pip install -r requirements.txt
 ```
