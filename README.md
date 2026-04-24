@@ -65,7 +65,7 @@ artifacts to `model/`.
 ### 4. Launch the app
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Open [http://localhost:8501](http://localhost:8501) in your browser.
